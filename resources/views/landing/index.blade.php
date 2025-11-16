@@ -552,12 +552,12 @@
                     </li>
                     @endif
                     <!-- Anda bisa tambahkan alamat jika ada di variabel -->
-                    {{--
+
                     <li class="flex items-start">
                         <i class="fas fa-map-marker-alt w-4 mr-2 mt-1 flex-shrink-0"></i>
-                        <span>Alamat kantor Anda di sini...</span>
+                        <span>Grand Batavia Groove 02/03 Kel. Sindang Sari Kec. Pasar Kemis Kab. Tangerang Banten 15560</span>
                     </li>
-                    --}}
+
                     @if(isset($officeHours) && $officeHours)
                     <li class="flex items-start">
                         <i class="fas fa-clock w-4 mr-2 mt-1 flex-shrink-0"></i>
