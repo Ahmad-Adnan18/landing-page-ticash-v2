@@ -283,6 +283,53 @@
         </div>
     </div>
 </div>
+<!-- Special Section for Haji & Umroh Program -->
+<div id="haji-umroh" class="py-20 bg-gradient-to-r from-pink-50 via-purple-90 to-indigo-100">
+    <div class="container px-4 sm:px-8">
+        <div class="max-w-6xl mx-auto">
+            <div class="text-center mb-12">
+                <div class="inline-block px-4 py-2 bg-gradient-to-r from-pink-100 to-indigo-100 rounded-full mb-6">
+                    <span class="font-bold text-transparent bg-clip-text bg-gradient-to-r from-pink-600 to-indigo-700">PROGRAM IBADAH</span>
+                </div>
+                <h2 class="text-4xl md:text-5xl font-bold text-slate-800 mb-4">Integrasi Program Haji & Umroh</h2>
+                <p class="text-xl text-slate-600 max-w-3xl mx-auto">Sistem pembayaran dan manajemen keuangan yang aman dan transparan untuk program ibadah Anda</p>
+            </div>
+
+            <div class="grid lg:grid-cols-3 gap-8">
+                <div class="bg-white rounded-2xl shadow-lg p-8 border border-slate-100 hover:shadow-xl transition-shadow duration-300">
+                    <div class="w-16 h-16 rounded-full bg-gradient-to-r from-green-100 to-blue-100 flex items-center justify-center mb-6">
+                        <i class="fas fa-check-circle text-3xl text-green-600"></i>
+                    </div>
+                    <h3 class="text-2xl font-bold text-slate-800 mb-3">Pembayaran Aman</h3>
+                    <p class="text-slate-600">Sistem pembayaran digital yang terpercaya untuk setiap transaksi haji dan umroh Anda</p>
+                </div>
+
+                <div class="bg-white rounded-2xl shadow-lg p-8 border border-slate-100 hover:shadow-xl transition-shadow duration-300">
+                    <div class="w-16 h-16 rounded-full bg-gradient-to-r from-blue-100 to-purple-100 flex items-center justify-center mb-6">
+                        <i class="fas fa-shield-alt text-3xl text-blue-600"></i>
+                    </div>
+                    <h3 class="text-2xl font-bold text-slate-800 mb-3">Proses Transparan</h3>
+                    <p class="text-slate-600">Pelacakan dan laporan keuangan yang jelas untuk setiap tahapan perjalanan ibadah</p>
+                </div>
+
+                <div class="bg-white rounded-2xl shadow-lg p-8 border border-slate-100 hover:shadow-xl transition-shadow duration-300">
+                    <div class="w-16 h-16 rounded-full bg-gradient-to-r from-yellow-100 to-orange-100 flex items-center justify-center mb-6">
+                        <i class="fas fa-hand-holding-usd text-3xl text-yellow-600"></i>
+                    </div>
+                    <h3 class="text-2xl font-bold text-slate-800 mb-3">Tabungan Ibadah</h3>
+                    <p class="text-slate-600">Fitur tabungan khusus untuk perjalanan haji dan umroh dengan pengelolaan yang mudah</p>
+                </div>
+            </div>
+
+            <div class="mt-12 text-center">
+                <p class="text-lg text-slate-700 mb-6">Sistem terintegrasi dengan manajemen keuangan pesantren untuk kemudahan administrasi</p>
+                <a class="btn-solid-lg secondary" href="#form-contact">
+                    Pelajari Lebih Lanjut
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
 <div class="pt-16 pb-12 basic-5">
     <div class="container px-4 sm:px-8 lg:grid lg:grid-cols-12 lg:gap-x-12">
         <div class="lg:col-span-5">
